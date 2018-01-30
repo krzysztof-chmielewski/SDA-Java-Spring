@@ -40,7 +40,7 @@ public class PlayerController {
         return "players";
     }
 
-    @GetMapping("extremelyFancyMethodMapingWithEvenMoreFancyEverythingAndNothingAtTheSameTime")
+    @GetMapping("extremelyFancyMethodMappingWithEvenMoreFancyEverythingAndNothingAtTheSameTime")
     public String doSomethingSpecial(Model model) {
         model.addAttribute("players", players);
 
