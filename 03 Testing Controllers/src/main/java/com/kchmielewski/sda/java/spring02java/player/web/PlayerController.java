@@ -10,10 +10,9 @@ import java.util.List;
 
 @Controller
 public class PlayerController {
-    private final List<String> players;
+    private final List<String> players = new ArrayList<>();
 
     public PlayerController() {
-        players = new ArrayList<>();
         players.addAll(Arrays.asList("Adam Lallana", "Philippe Coutinho"));
     }
 
