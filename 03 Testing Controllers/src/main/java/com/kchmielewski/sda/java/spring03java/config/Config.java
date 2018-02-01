@@ -1,6 +1,6 @@
-package com.kchmielewski.sda.java.spring02java.config;
+package com.kchmielewski.sda.java.spring03java.config;
 
-import com.kchmielewski.sda.java.spring02java.player.web.PlayerController;
+import com.kchmielewski.sda.java.spring03java.player.web.PlayerController;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-package com.kchmielewski.sda.java.spring02java.initializer;
+package com.kchmielewski.sda.java.spring03java.initializer;
 
-import com.kchmielewski.sda.java.spring02java.config.Config;
+import com.kchmielewski.sda.java.spring03java.config.Config;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class Initializer extends AbstractAnnotationConfigDispatcherServletInitializer {

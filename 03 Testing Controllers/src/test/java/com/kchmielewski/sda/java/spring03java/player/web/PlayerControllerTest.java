@@ -1,4 +1,4 @@
-package com.kchmielewski.sda.java.spring02java.player.web;
+package com.kchmielewski.sda.java.spring03java.player.web;
 
 import org.junit.Test;
 import org.springframework.test.web.servlet.MockMvc;
